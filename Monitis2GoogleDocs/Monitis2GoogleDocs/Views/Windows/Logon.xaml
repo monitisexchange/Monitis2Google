@@ -1,0 +1,34 @@
+﻿<Window x:Class="Monitis2GoogleDocs.Views.Windows.GoogleLogon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Monitis/Google Credentials" Height="325" Width="447" >
+
+    <Grid Height="260" Width="438" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition x:Name="row0" Height="130"></RowDefinition>
+            <RowDefinition x:Name="row1" Height="130"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Height="130" Width="435" Grid.Row="0" Background="#A9AFB0"   >
+            <Label Content="API Key" Height="28" HorizontalAlignment="Left" Margin="12,31,0,0" Name="lblApiKey" VerticalAlignment="Top" />
+            <Label Content="Secret Key" Height="28" HorizontalAlignment="Left" Margin="12,63,0,0" Name="lblSecretKey" VerticalAlignment="Top" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="114,38,0,0" Name="monitisApiKey" VerticalAlignment="Top" Width="238" TextChanged="monitisApiKey_TextChanged" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="114,63,0,0" Name="monitisSecretKey" VerticalAlignment="Top" Width="238" IsEnabled="False" Text="Not Required" />
+            <Button Content="Check Keys" Height="23" HorizontalAlignment="Left" Margin="266,103,0,0" Name="monitsButton" VerticalAlignment="Top" Width="75"  Click="monitsButton_Click"/>
+            <Label Content="monitis" Height="28" HorizontalAlignment="Left" Name="labelMonitisTitle" VerticalAlignment="Top" FontWeight="Bold" Width="168" />
+        </Grid>
+
+        <Grid Width="435" Grid.Row="1" Margin="2,0,2,-24" Background="#BFBFBF">
+            <Label Content="User Name" Height="28" HorizontalAlignment="Left" Margin="12,56,0,0" Name="labelUserName" VerticalAlignment="Top" />
+            <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="17,86,0,0" Name="labelPassword" VerticalAlignment="Top" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="114,61,0,0" Name="userName" VerticalAlignment="Top" Width="238" TextChanged="userName_TextChanged" />
+
+            <PasswordBox Height="23" HorizontalAlignment="Left" Margin="114,86,0,0" Name="password" VerticalAlignment="Top" Width="238" ToolTip="Password" PasswordChar="*" PasswordChanged="password_PasswordChanged"></PasswordBox>
+            <Button Content="Logon" Height="23" HorizontalAlignment="Left" Margin="266,124,0,0" Name="googleButton" VerticalAlignment="Top" Width="75" Click="googleButton_Click" />
+            <Label Content="google" FontWeight="Bold" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="labelGoogleTitle" VerticalAlignment="Top" Width="157" />
+            <Button Content="Close" Height="23" HorizontalAlignment="Left" Margin="345,124,0,0" Name="closeButton" VerticalAlignment="Top" Width="75" Click="closeButton_Click" />
+        </Grid>
+
+
+    </Grid>
+</Window>

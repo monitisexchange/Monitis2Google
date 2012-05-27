@@ -1,0 +1,36 @@
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.exe
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.pdb
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.Client.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.Spreadsheets.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Newtonsoft.Json.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.Extensions.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\MainWindow.baml
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\MainWindow.g.cs
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\App.g.cs
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs_MarkupCompile.cache
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.g.resources
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.Properties.Resources.resources
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.exe
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.pdb
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.Documents.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.AccessControl.dll
+C:\AzureTutorials\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.exe.config
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.exe
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.pdb
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.exe
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.pdb
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs_MarkupCompile.cache
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.g.resources
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\Monitis2GoogleDocs.Properties.Resources.resources
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\madesira\My Documents\Visual Studio 2010\Projects\Monitis2GoogleDocs\Monitis2GoogleDocs\bin\Debug\Monitis2GoogleDocs.exe.config
